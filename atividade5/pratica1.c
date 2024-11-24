@@ -16,3 +16,8 @@ int main(int narg, char *argv[]) {
     printf("Resto da divisao eh = %d", resto_div(n, d));
     return EXIT_SUCCESS;
 }
+
+/*
+Escreva uma função recursiva que calcule o resto da divisão de um número inteiro positivo por outro. 
+Não utilizar o operador de resto de divisão (%).
+*/

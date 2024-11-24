@@ -27,3 +27,5 @@ int main(int narg, char *argv[]) {
     printf("%f", resultado);
     return EXIT_SUCCESS;
 }
+
+/*Número de Euler calcule o próximo termo enquanto o número for maior que 10^-6*/

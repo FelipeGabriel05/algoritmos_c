@@ -25,3 +25,10 @@ int main(int narg, char *argv[]) {
     }
     return EXIT_SUCCESS;
 }
+
+/*
+Faça um programa em C que defina e utilize uma função recursiva que verifique se um determinado 
+número inteiro e positivo com até 7 dígitos é ou não um palíndromo. Se for, a função deve retornar 1. 
+Caso contrário, zero. Um número palíndromo é um número que é igual à sua própria leitura de trás pa-
+ra frente. São exemplos de palíndromos: 1643461 / 7557 / 131 / 2 / 123321.
+*/
